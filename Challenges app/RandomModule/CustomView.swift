@@ -7,7 +7,7 @@
 
 import UIKit
 
-class CustomView: UIView {
+class CustomView: UIView {  //
     
     let textView = UITextView()
     let likeButton = UIButton()
